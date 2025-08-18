@@ -35,3 +35,553 @@ nav a{
     padding: 10px 50px;
     font-family: "Manrope",sans-serif;
 }
+h4{
+    color:rgba(34, 90, 176, 1);
+    font-family: "kumbh sans",sans-serif;
+    margin-left: 45%;
+    margin-top: 25px;
+}
+span {
+    display: flex;
+    gap: 50px;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+span img{
+    height: 180px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+#Most{
+    border: solid 1px rgb(79, 79, 88);
+    border-radius: 5px;
+    width: 75px;
+    padding: 5px;
+}
+#Quantum{
+    color: rgba(34, 90, 176, 1);
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+#love{
+    border:solid 1px rgba(34, 90, 176, 1);
+    width: 50px;
+    border-radius: 10px;
+}
+#comment{
+    border: solid 1px rgba(34, 90, 176, 1);
+    width: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+#send{
+    border: solid 1px rgba(34, 90, 176, 1);
+    width: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+#flex{
+    display: flex;
+    gap: 5px;
+}
+#May{
+    margin: 10px;
+    
+}
+.Explore{
+    margin: 5px;
+}
+#Read{
+    background-color: rgba(34, 90, 176, 1);
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#all{
+border: solid 1px gray;
+width: 85px;
+font-size: 10px;
+display: flex;
+justify-content: center;
+padding: 5px;
+}
+#css{
+border: solid 1px gray;
+width: 85px;
+font-size: 10px;
+display: flex;
+justify-content: center;
+padding: 5px;
+}
+#AI{
+border: solid 1px gray;
+width: 85px;
+font-size: 10px;
+display: flex;
+justify-content: center;
+padding: 5px;
+}
+#Javascript{
+border: solid 1px gray;
+width: 85px;
+font-size: 10px;
+display: flex;
+justify-content: center;
+padding: 5px;
+}
+#bio{
+border: solid 1px gray;
+width: 85px;
+font-size: 10px;
+display: flex;
+justify-content: center;
+padding: 5px;
+}
+#Code{
+border: solid 1px gray;
+width: 85px;
+font-size: 10px;
+display: flex;
+justify-content: center;
+padding: 5px;
+}
+#secondstage{
+    display: flex;
+    gap: 10px;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+#thirdstage{
+    display: flex;
+    gap: 10px;
+    margin-left: 200px;
+}
+#bad{
+    font-size: 10px;
+    
+}
+#late{
+border: solid 1px gray;
+font-size:13px ;
+margin-left: 535px;
+padding: 5px;
+border-radius: 10px;
+}
+#old{
+border: solid 1px gray;
+font-size:13px ;
+padding: 5px;
+border-radius: 10px;
+}
+hr{
+width: 630px;
+margin-left: 200px;
+margin-top: 20px;
+}
+#init{
+    display: flex;
+}
+#May{
+    color: grey;
+    margin-left: 170px;
+}
+#pan{
+    color: grey;
+}
+#lap{
+    color: grey;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+#car{
+    margin-top: 10px;
+}
+#saa{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#suu{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#taa{
+    background-color: rgba(34, 90, 176, 1);
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
+}
+#under{
+    display: flex;
+    gap: 10px;
+}
+
+#init{
+    display: flex;
+}
+#May{
+    color: grey;
+    margin-left: 170px;
+}
+#pan{
+    color: grey;
+}
+#lap{
+    color: grey;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+#car{
+    margin-top: 10px;
+}
+#saa{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#suu{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#taa{
+    background-color: rgba(34, 90, 176, 1);
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
+}
+#under{
+    display: flex;
+    gap: 10px;
+}
+
+#init{
+    display: flex;
+}
+#May{
+    color: grey;
+    margin-left: 170px;
+}
+#pan{
+    color: grey;
+}
+#lap{
+    color: grey;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+#car{
+    margin-top: 10px;
+}
+#saa{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#suu{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#taa{
+    background-color: rgba(34, 90, 176, 1);
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
+}
+#under{
+    display: flex;
+    gap: 10px;
+}
+
+#init{
+    display: flex;
+}
+#May{
+    color: grey;
+    margin-left: 170px;
+}
+#pan{
+    color: grey;
+}
+#lap{
+    color: grey;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+#car{
+    margin-top: 10px;
+}
+#saa{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#suu{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#taa{
+    background-color: rgba(34, 90, 176, 1);
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
+}
+#under{
+    display: flex;
+    gap: 10px;
+}
+
+#init{
+    display: flex;
+}
+#May{
+    color: grey;
+    margin-left: 170px;
+}
+#pan{
+    color: grey;
+}
+#lap{
+    color: grey;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+#car{
+    margin-top: 10px;
+}
+#saa{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#suu{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#taa{
+    background-color: rgba(34, 90, 176, 1);
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
+}
+#under{
+    display: flex;
+    gap: 10px;
+}
+
+#init{
+    display: flex;
+}
+#May{
+    color: grey;
+    margin-left: 170px;
+}
+#pan{
+    color: grey;
+}
+#lap{
+    color: grey;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+#car{
+    margin-top: 10px;
+}
+#saa{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#suu{
+border: solid 1px rgba(34, 90, 176, 1);
+width: 70px;
+border-radius: 10px;
+padding: 2px;
+display: flex;
+justify-content: center;
+}
+#taa{
+    background-color: rgba(34, 90, 176, 1);
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 3px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
+}
+#under{
+    display: flex;
+    gap: 10px;
+}
+    
+#last-part img{
+    width:125.4px ;
+    height: 51px;
+    
+}
+#last-part{
+    background-color: black;
+}
+#At{
+    color: rgba(255, 255, 255, 1) ;
+    text-decoration: underline rgba(34, 90, 176, 1);
+    font-family: "kumbh sans",sans-serif;
+    width: 300px;
+}
+#put{
+    color: rgba(255, 255, 255, 1);
+    text-decoration: underline rgba(34, 90, 176, 1);
+}
+#put h4{
+    color: rgba(255, 255, 255, 1);
+    margin-left: 0px;
+    text-decoration: underline black;
+}
+#Our{
+    color: rgba(255, 255, 255, 1);
+    text-decoration: underline rgba(34, 90, 176, 1);
+}
+#Our h4{
+    color: rgba(255, 255, 255, 1);
+    text-decoration: underline black;
+    margin-left: 0px;
+}
+#sapa{
+color: rgba(255, 255, 255, 1);
+width: 200px;
+
+}
+#sapa h4{
+color: rgba(255, 255, 255, 1);
+margin-left: 0px;
+}
+#tu{
+    text-decoration: underline rgba(34, 90, 176, 1);
+    
+}
+#did{
+text-decoration: underline rgba(34, 90, 176, 1);
+}
+#cona{
+text-decoration:underline rgba(34, 90, 176, 1) ;
+
+}
+#casa{
+margin-left: 50px;
+}
+#tasa{
+margin-left: 50px;
+}
+#dasa{
+margin-left: 50px;
+
+}
+#last-part{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+#At{
+    margin-top: 50px;
+    
+}
+#canteen{
+    margin-left: 50px;
+    display: flex;
+    margin-top: 25px;
+    gap: 20px;
+}
+#godswill{
+margin-bottom: 15px;
+}
+#promise{
+margin-bottom: 15px;
+}
+#goodnews{
+margin-bottom: 15px;
+}
+hr{
+    background-color: black;
+    width: 900px;
+    margin-left: 100px;
+    background-color: black;
+}
+#chuks{
+    background-color: black;
+    font-family: "kumbh sans",sans-serif;
+    color: rgba(153, 153, 153, 1);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+#chuks:hover{
+    text-decoration: underline  rgba(34, 90, 176, 1);
+}
+#grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
