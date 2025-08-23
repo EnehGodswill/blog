@@ -553,7 +553,7 @@ margin-left: 50px;
     margin-left: 50px;
     display: flex;
     margin-top: 25px;
-    gap: 20px;
+    gap: 150px;
 }
 #godswill{
 margin-bottom: 15px;
@@ -584,4 +584,28 @@ hr{
 #grid-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+#beautiful{
+    display: flex;
+    justify-content: center;
+}
+#secondstage{
+    display: flex;
+    justify-content: center;
+}
+#thirdstage{
+    display: flex;
+    justify-content: center;
+}
+hr{
+    margin-left: 200px;
+    
+}
+#sisesther{
+    background-color: black;
+}
+#chuks{
+    display: flex;
+    justify-content: center;
 }
